@@ -25,14 +25,14 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="amd.20161004104820.1" a="E"><vh>三大主題教學</vh>
+<v t="amd.20161004104820.1"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
 <v t="amd.20161004104641.2"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
-<v t="leo.20170117201557.1" a="E"><vh>主題教學內容</vh>
+<v t="leo.20170117201557.1"><vh>主題教學內容</vh>
 <v t="leo.20170117201557.2"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
 <v t="leo.20170117202031.1" a="E"><vh>相關課程</vh>
@@ -41,33 +41,30 @@
 <v t="amd.20161004104904.1" a="E"><vh>創造力</vh>
 <v t="amd.20161004104904.2"><vh>何謂創造力?</vh></v>
 </v>
-<v t="leo.20170117202521.1" a="E"><vh>創造力</vh>
+<v t="leo.20170117202521.1"><vh>創造力</vh>
 <v t="leo.20170117202521.2"><vh>何謂創造力?</vh></v>
 </v>
-<v t="amd.20161004105131.1" a="E"><vh>何謂自學?</vh>
-<v t="amd.20161004105131.2"><vh>自學</vh></v>
-</v>
-<v t="amd.20161004105716.1" a="E"><vh>電腦輔助設計課程內涵</vh>
+<v t="amd.20161004105716.1"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004105716.2" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="leo.20170117203031.1"><vh>CAD 教學主題</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20161004101327.1" a="E"><vh> Github pages 網頁</vh>
+<v t="amd.20161004101327.1"><vh> Github  網頁</vh>
 <v t="leo.20170117204209.1"><vh>個人任務</vh></v>
 </v>
-<v t="leo.20170117204335.1" a="E"><vh>OnShape 操作練習</vh>
+<v t="leo.20170117204335.1"><vh>OnShape 操作練習</vh>
 <v t="leo.20170117204335.2"><vh>OnShape 實習</vh></v>
 </v>
-<v t="leo.20170117204401.1" a="E"><vh>Solvespace 操作練習</vh>
+<v t="leo.20170117204401.1"><vh>Solvespace 操作練習</vh>
 <v t="leo.20170117204401.2"><vh>Solvespace 實習</vh></v>
 </v>
-<v t="leo.20170117204455.1" a="E"><vh>Windows 環境下可攜環境</vh>
+<v t="leo.20170117204455.1"><vh>Windows 環境下可攜環境</vh>
 <v t="leo.20170117204455.2" a="E"><vh>下載 miniconda 可攜環境</vh>
 <v t="leo.20170117204455.3"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="leo.20170117204704.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20170117204704.1"><vh>各式內容引用範例</vh>
 <v t="leo.20170117204704.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20170117204704.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -278,23 +275,6 @@ Created by [40423220]
 ## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;可執行&lt;/span&gt;流程
 &lt;span style="color:#00FF80"&gt;還有&lt;/span&gt;
 ## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;</t>
-<t tx="amd.20161004105131.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004105131.2"># 自學的訓練
-
-## 學員必須自己有學習動機
-## 能消化中英文資料
-## 從中體會學習的意義
-
-
-</t>
 <t tx="amd.20161004105716.1">&lt;section&gt;
 @others
 &lt;/section&gt;
